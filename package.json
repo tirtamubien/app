@@ -1,8 +1,0 @@
-{
- "name": "Spammers",
- "main": "https://cdn.rawgit.com/tirtamubien/app/master/index.html",
- "window": {
-     "width": 2000,
-     "height": 1000
- }
-}
